@@ -1,0 +1,1 @@
+Put AntonSC-Regular.ttf in this folder (Google Fonts > Anton SC > Download family > unzip).
